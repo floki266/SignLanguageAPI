@@ -1,0 +1,13 @@
+venv/
+.venv/
+
+__pycache__/
+*.pyc
+*.log
+
+dataset/
+training/
+tests/
+videos/
+
+.env
